@@ -4,3 +4,4 @@ I hate you now.
 I don't want to talk with you!
 what's your major in your university?
 Change again this time!
+Just want to test the git diff command!
