@@ -1,1 +1,2 @@
 test git in windows 7 operating system
+The second change and the second commit to the remote repository
